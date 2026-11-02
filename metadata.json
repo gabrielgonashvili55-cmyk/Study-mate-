@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate",
+  "description": "AI-powered study platform with PDF processing, chapter summaries, flashcards, interactive quizzes, and practice exam mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
